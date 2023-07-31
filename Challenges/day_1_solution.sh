@@ -4,7 +4,7 @@
 #---------------task 1-----------------------> basics of bash scripting 
 #!/bin/bash
 
-# This is a simple bash script to print the current date and time.
+# hey everyone!! i am prabir
 
 #--------task 2-------------------------------> The echo command in shell scripting is used to display messages or output to the terminal or console. It allows you to print text or variables to the screen, which is particularly useful for providing information or feedback to users or for debugging purposes.
 # This is a simple bash script to print the current date and time.
